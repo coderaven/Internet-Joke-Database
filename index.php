@@ -5,4 +5,5 @@
 	Today's date according to this webserver is: <strong><?php echo date('l, F js Y.'); ?></strong>
 </p>
 
+
 <?php include "footer.php" ?>

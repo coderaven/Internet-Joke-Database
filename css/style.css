@@ -15,6 +15,25 @@ body {
 	margin: auto;
 }
 
+header {
+	max-width: 960px;
+	width: 100%;
+	margin: auto;
+}
+
+
+#logo h1 a{
+	font-family: Comic Sans, Comic Sans MS, cursive;
+	color: #fff;
+	text-shadow: 5px 0px 2px #153770;
+	text-decoration: none;
+}
+
+#logo p {
+	color: #fff;
+	margin-top: -15px;
+}
+
 #content {
 	padding: 10px;
 }
